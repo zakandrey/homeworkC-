@@ -3,11 +3,12 @@
 // 2, 4 -> 16
 
 
-Console.Write("Введите певрое число: ");
+Console.Write("Введите первое число: ");
 double NumberA = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите второе число: ");
 double NumberB = Convert.ToInt32(Console.ReadLine());
+
 double result = 0;
 for (int i = 1; i <= NumberB; i++)
 
