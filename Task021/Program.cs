@@ -58,7 +58,6 @@ var columns = InputNumber("Введите колчисетво столбцов 
 
 int [,] newArray = new int [rows, columns];
 
-
 FillArray2D(newArray);
 Console.WriteLine();
 PrintArray2D(newArray);
