@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\bin\Debug\net6.0\Task026.exe
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\bin\Debug\net6.0\Task026.deps.json
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\bin\Debug\net6.0\Task026.runtimeconfig.json
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\bin\Debug\net6.0\Task026.dll
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\bin\Debug\net6.0\Task026.pdb
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.dll
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\refint\Task026.dll
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.pdb
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\Task026.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\it\Lab1\homework\Task026\obj\Debug\net6.0\ref\Task026.dll
